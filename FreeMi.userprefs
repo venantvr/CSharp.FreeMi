@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FreeMi.Core/Device.cs">
+    <Files>
+      <File FileName="FreeMi.Console/Program.cs" Line="18" Column="24" />
+      <File FileName="FreeMi.Core/Device.cs" Line="27" Column="19" />
+      <File FileName="FreeMi.Core/Application.cs" Line="1" Column="1" />
+      <File FileName="UPnP/AsyncSocket.cs" Line="1" Column="1" />
+      <File FileName="FreeMi.Core/RunningMode.cs" Line="1" Column="1" />
+      <File FileName="FreeMi.Core/PortableSettingsProvider.cs" Line="31" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
